@@ -1,4 +1,4 @@
-echo 'Welcome'
+echo 'Welcome!'
 echo ' '
 echo 'Press CONTROL+C at any time to exit this process.'
 echo 'Sooner would be better than later.'
@@ -14,6 +14,6 @@ ln -s Dropbox/minecraft/resourcepacks ~/Library/Application\ Support/minecraft/r
 
 echo ' '
 echo 'Now we are done!'
-echo 'Thanks for using my app.'
+echo 'Thanks for using my app!'
 echo ' '
 echo 'For additional information please visit: https://github.com/makccr/minecraftBackup'
