@@ -9,8 +9,8 @@ echo 'minecraft saves folder, as well as any resource packs you may have install
 echo ' '
 
 echo 'Setting up links...'
-ln -s Dropbox/minecraft/saves ~/Library/Application\ Support/minecraft/saves
-ln -s Dropbox/minecraft/resourcepacks ~/Library/Application\ Support/minecraft/resourcepacks
+ln -s ~/Dropbox/minecraft/saves/ ~/Library/Application\ Support/minecraft/saves
+ln -s ~/Dropbox/minecraft/resourcepacks/ ~/Library/Application\ Support/minecraft/resourcepacks
 
 echo ' '
 echo 'Now we are done!'
