@@ -1,6 +1,11 @@
 # Minecraft Sync
 This project is a mission to make it easier to store Minecraft (Java Edition) saves in the cloud. Minecraft (Java Edition) is actually great because it's cross platform and can be run on Windows, MacOS, and it's fare share of Linux distributions with ease. But this cross-platform compatibility left me wanting an easy way to back-up my script to a cloud storage solution, in my case, Dropbox. 
 
+## Downloads 
+The project is in very early stages. You can currently download a MacOS only bash script. 
+
+[Download: Minecraft Sync 0.0](https://github.com/makccr/minecraftSync/releases/download/0.0/minecraftSynce.0.0.zip)
+
 ## Missions of This Project: 
 1. Copy Minecraft saves, Resource Packs, and anything else relevant to a more stable solution. 
 2. Have these same files sync so that I can play on the same world, across multiple systems, and multiple operating systems with ease. 
