@@ -7,13 +7,14 @@ echo 'What cloud storage solution are you using?'
 echo ' ' 
 echo 'Acceptable options include:' 
 echo 'Dropbox' 
-echo 'Google\ Drive' 
-echo 'Next Cloud' 
+echo 'Google\ Drive'
+echo 'pCloud\ Drive'
+echo '(more options hopefully coming soon'
 echo ' '
 echo 'Please type these options exactly as they appear in the list above.' 
 echo 'Feel free to copy & paste if you need to.' 
 
-read storage 
+read storage #Taking some user input
 
 echo 'You are using' $storage #Confirming selection
 echo ' ' 
