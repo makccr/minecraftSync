@@ -1,4 +1,5 @@
-# Minecraft Sync
+![Header SVG](https://makccr.github.io/images/github-header.svg)
+
 This project is a mission to make it easier to store Minecraft (Java Edition) saves in the cloud. Minecraft (Java Edition) is actually great because it's cross platform and can be run on Windows, MacOS, and it's fare share of Linux distributions with ease. But this cross-platform compatibility left me wanting an easy way to back-up my script to a cloud storage solution, in my case, Dropbox. 
 
 ## Downloads 
