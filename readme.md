@@ -20,3 +20,10 @@ So, my goal is to make this process as simple as possible, on as many operating 
 
 ### Current Progress
 This is a brand new project, and I'm starting by solving the problem more myself. I typically play on MacOS, and if I play on anything other than MacOS, it will be a Linux system. I'm starting by creating bash scripts to work on MacOS as well as Linux; and I'll work my way up from there. 
+
+---
+
+# YouTube Video
+If you're interested, I've created a YouTube video with instructions for using the script, and a much more detailed look at how the script works. Click the image below to play. 
+
+[![Minecraft Sync](https://img.youtube.com/vi/xoJEoC-VHd4/maxresdefault.jpg)](https://youtu.be/xoJEoC-VHd4)
